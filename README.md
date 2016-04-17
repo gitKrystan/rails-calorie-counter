@@ -1,4 +1,4 @@
-# Texting App
+# Calorie Counter
 
 ##### By Krystan Menne and Patrick Sullivan
 
