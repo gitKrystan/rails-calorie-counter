@@ -7,8 +7,6 @@ Features:
 * AJAX requests
 * Testing with RSpec, FactoryGirl, Capybara, and PhantomJS
 
-Testing with RSpec, VCR (to record HTTP requests and streamline tests), Capybara, and FactoryGirl.
-
 ## Prerequisites
 * Ruby 2.2.2 or greater
 * Rails 4.2.6 or greater
